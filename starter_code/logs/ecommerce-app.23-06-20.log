@@ -1,0 +1,45 @@
+19:51:46.841 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.submit: START
+19:51:46.843 [main] INFO  c.e.demo.controllers.OrderController - OrderController.submit: Order successfully.
+19:51:46.843 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.submit: END
+19:51:46.847 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.submit: START
+19:51:46.848 [main] INFO  c.e.demo.controllers.OrderController - OrderController.submit: Cant find user.
+19:51:46.848 [main] INFO  c.e.demo.controllers.OrderController - OrderController.submit: Order failed.
+19:51:46.848 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.submit: END
+19:51:46.850 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: START
+19:51:46.850 [main] INFO  c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: Cant find user.
+19:51:46.850 [main] INFO  c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: END
+19:51:46.851 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: START
+19:51:46.852 [main] INFO  c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: Order of user: []
+19:51:46.852 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: END
+19:51:46.929 [main] DEBUG c.e.demo.controllers.UserController - UserController.createUser: START 
+19:51:46.929 [main] INFO  c.e.demo.controllers.UserController - UserController.createUser: HaLH
+19:51:46.930 [main] INFO  c.e.demo.controllers.UserController - UserController.createUser: Created user HaLH successfully.
+19:51:46.931 [main] DEBUG c.e.demo.controllers.UserController - UserController.createUser: END 
+19:51:46.933 [main] DEBUG c.e.demo.controllers.UserController - UserController.findByUserName: START
+19:51:46.933 [main] INFO  c.e.demo.controllers.UserController - User HaLH found successfully.
+19:51:46.933 [main] DEBUG c.e.demo.controllers.UserController - UserController.findByUserName: END
+19:51:46.936 [main] DEBUG c.e.demo.controllers.UserController - UserController.findByUserName: START
+19:51:46.936 [main] INFO  c.e.demo.controllers.UserController - User HaLH found successfully.
+19:51:46.937 [main] DEBUG c.e.demo.controllers.UserController - UserController.findByUserName: END
+19:55:19.525 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.submit: START
+19:55:19.988 [main] INFO  c.e.demo.controllers.OrderController - OrderController.submit: Order successfully.
+19:55:19.989 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.submit: END
+19:55:19.992 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.submit: START
+19:55:19.992 [main] INFO  c.e.demo.controllers.OrderController - OrderController.submit: Cant find user.
+19:55:19.992 [main] INFO  c.e.demo.controllers.OrderController - OrderController.submit: Order failed.
+19:55:19.993 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.submit: END
+19:55:19.994 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: START
+19:55:19.994 [main] INFO  c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: Cant find user.
+19:55:19.994 [main] INFO  c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: END
+19:55:19.995 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: START
+19:55:19.995 [main] INFO  c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: Order of user: []
+19:55:19.995 [main] DEBUG c.e.demo.controllers.OrderController - OrderController.getOrdersForUser: END
+19:55:20.114 [main] DEBUG c.e.demo.controllers.UserController - UserController.createUser: START 
+19:55:20.114 [main] INFO  c.e.demo.controllers.UserController - UserController.createUser: HaLH
+19:55:20.118 [main] INFO  c.e.demo.controllers.UserController - UserController.createUser: Created user HaLH successfully.
+19:55:20.118 [main] DEBUG c.e.demo.controllers.UserController - UserController.createUser: END 
+19:55:20.121 [main] DEBUG c.e.demo.controllers.UserController - UserController.findByUserName: START
+19:55:20.122 [main] INFO  c.e.demo.controllers.UserController - User username not found.
+19:55:20.125 [main] DEBUG c.e.demo.controllers.UserController - UserController.findByUserName: START
+19:55:20.125 [main] INFO  c.e.demo.controllers.UserController - User HaLH found successfully.
+19:55:20.125 [main] DEBUG c.e.demo.controllers.UserController - UserController.findByUserName: END
